@@ -3,7 +3,7 @@ Launch an example using
 
 ```shell
 ros2 launch \
-    med14_description \
+    med14_r820_description \
     view_robot.launch.py
 ```
 
